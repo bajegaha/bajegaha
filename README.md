@@ -1,4 +1,4 @@
-### Hi there 👋 I am Ghan Bahadur Gaha ###
+### Hi there 👋 ##
 
 - 🌱 I’m deep learning, machine learning enthusiast..
 - I am currently learning SQL and python
